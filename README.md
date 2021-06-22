@@ -1,1 +1,1 @@
-# react-django-blog
+# React Django Blog App
